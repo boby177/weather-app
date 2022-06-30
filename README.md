@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
-![thumb}(https://raw.githubusercontent.com/boby177/weather-app/main/Screenshot_5.png)
+![thumb-img](https://raw.githubusercontent.com/boby177/weather-app/main/Screenshot_5.png)
 
 ## Development server
 
